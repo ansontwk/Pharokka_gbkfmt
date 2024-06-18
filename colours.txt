@@ -1,0 +1,10 @@
+DNA=5
+unknown function=0
+head and packaging=2
+connector=10
+tail=7
+transcription regulation=3
+lysis=11
+moron=6
+other=1
+integration and excision=8
